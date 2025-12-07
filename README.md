@@ -48,5 +48,5 @@ It is designed for personal use in small printing services to track orders, paym
 
 ---
 
-## 📦 Project Structure
+
 
