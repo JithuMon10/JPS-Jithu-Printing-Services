@@ -20,14 +20,6 @@
 
 Built entirely with **Kotlin** and **Jetpack Compose**, the app focuses on a clean UI, smooth animations, and secure local data handling.
 
----
-
-## 📸 Screenshots
-
-| Dashboard (Light) | Order Details | Dark Mode | Order Status |
-|:---:|:---:|:---:|:---:|
-| ![Dashboard] | ![Details] | ![Dark Mode] | ![Status] |
-| *(Add Image)* | *(Add Image)* | *(Add Image)* | *(Add Image)* |
 
 ---
 
@@ -110,3 +102,4 @@ If you find this project interesting or useful:
 * 🛠 **Suggest Improvements** to help make JPS Studio better.
 
 **Thank you for visiting JPS Studio! 🚀**
+
